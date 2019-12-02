@@ -6,4 +6,4 @@ tenJson = () => {
 };
 tenJson();
 let formatData = JSON.stringify(jsdata);
-console.log("~~~", JSON.parse(formatData));
+console.log("~~~", "done");
